@@ -10,6 +10,7 @@
     <RepositoryUrl>https://github.com/maliming/Abp.YunPian</RepositoryUrl>
     <Product />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Abp YunPian Module. https://www.yunpian.com/</Description>
   </PropertyGroup>
 
   <ItemGroup>
