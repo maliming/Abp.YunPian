@@ -1,5 +1,7 @@
 # Abp YunPian
 
+[![NuGet](https://img.shields.io/nuget/v/Abp.YunPian.svg)](https://www.nuget.org/packages/Abp.YunPian)
+
 云片网ABP模块
 
 Abp [YunPian](https://www.yunpian.com) Module
