@@ -4,7 +4,7 @@ namespace YunPian.Configuration
 {
     public static class YunPianConfigurationExtensions
     {
-        public static IYunPianConfiguration YunPianSms(this IModuleConfigurations configurations)
+        public static IYunPianConfiguration YunPian(this IModuleConfigurations configurations)
         {
             return configurations.AbpConfiguration.Get<IYunPianConfiguration>();
         }

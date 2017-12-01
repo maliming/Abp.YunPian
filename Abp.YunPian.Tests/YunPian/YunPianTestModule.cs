@@ -10,7 +10,7 @@ namespace YunPian.Tests
     {
         public override void PreInitialize()
         {
-            Configuration.Modules.YunPianSms().ApiKey = "your api key";
+            Configuration.Modules.YunPian().ApiKey = "your api key";
         }
 
         public override void Initialize()
