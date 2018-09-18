@@ -11,9 +11,10 @@
     <Product />
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>Abp YunPian Module. https://www.yunpian.com/</Description>
-    <AssemblyVersion>1.2.0.0</AssemblyVersion>
-    <FileVersion>1.2.0.0</FileVersion>
-    <Version>1.2.0</Version>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <FileVersion>1.3.0.0</FileVersion>
+    <Version>1.3.0</Version>
+    <PackageReleaseNotes>Update Abp to 3.8.2</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
@@ -21,7 +22,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="abp" Version="3.5.0" />
+    <PackageReference Include="abp" Version="3.8.2" />
   </ItemGroup>
 
 </Project>
